@@ -1,0 +1,57 @@
+#title{
+    
+    
+    border-bottom: dotted;
+    border-color: #7f2b87;
+    border-width: 8px;
+    color: #e685b1;
+    
+}
+#subtitle{
+    
+    
+    font-size: 95%;
+    color: #898a89;
+
+}
+#inf{
+    font-style: italic;
+}
+#mail{
+    
+    color:#4ac222;
+    
+}
+.limail{
+    line-height: 0%;
+}
+#web{
+    line-height: 0%;
+    color:#ec6c44;
+}
+#tel{
+    line-height: 0%;
+}
+
+.list{
+    background-color:  #ebebeb ;
+    border-style: solid;
+    border-color: #7f2b87;
+    border-width: 5px;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 77%;
+    margin-top: 1%;
+    margin-left: 1%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    border-style: solid;
+    border-color: #9d9f9f;
+    border-width: 2px;
+    outline: 8px solid #323333;
+    
+}
