@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "pokemonName": "pikachu",
+      "taskDescription": "Cargar la batería del tesla"
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png",
+      "pokemonName": "onix",
+      "taskDescription": "onix",
+      "id": 3
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/245.png",
+      "pokemonName": "Suicune ",
+      "taskDescription": "s",
+      "id": 4
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/377.png",
+      "pokemonName": "Regirock ",
+      "taskDescription": "task",
+      "id": 5
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png",
+      "pokemonName": "Mew",
+      "taskDescription": "fffff",
+      "id": 6
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png",
+      "pokemonName": "onix",
+      "taskDescription": "bledd",
+      "id": 7
+    },
+    {
+      "imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+      "imgURLback": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png",
+      "pokemonName": "Celebi",
+      "taskDescription": "Celebi",
+      "id": 8
+    }
+  ]
+}

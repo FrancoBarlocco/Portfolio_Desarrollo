@@ -1,0 +1,19 @@
+<div class="contenedor">
+    <button (click)="edit = !edit">Edit</button>
+        <button (click)="delete()">Delete Card</button>
+        <div *ngIf="edit">
+            <input placeholder="New Task" type="text" [(ngModel)]="newTaskDescription">
+            <button class="btnSave" (click)="save()" [disabled]="newTaskDescription === ''">Save</button>
+        </div>
+<section class="generalCard">
+    <div class="card_box">
+        <img class="pkImage" [src]="this.card.imgURL">
+        <h2 class="pokemonName">{{this.card.pokemonName}}</h2>
+        <p class="taskDescription">{{this.card.taskDescription}}</p>
+
+        <div class="flip-card-back">
+            <img class="pkImage" [src]="this.card.imgURLback">
+        </div>
+    </div>   
+</section>
+</div>
